@@ -1,4 +1,4 @@
 # Gayatri-demo
 This is my first git repository
 <br>
-Author - Gayatri Ahire
+Author - Gayatri Ahire(from Nashik)
